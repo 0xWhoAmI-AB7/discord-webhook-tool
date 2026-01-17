@@ -98,4 +98,5 @@ footer = ctk.CTkLabel(
 )
 footer.pack(pady=5)
 
+
 app.mainloop()
